@@ -1,0 +1,37 @@
+h1 {
+    font-family: 'Dosis';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center;
+}
+
+p {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+    color: #828282;
+}
+
+h1 span {
+    color: #EE24FF;
+}
+
+#hero {
+    text-align: center;
+    margin-bottom: 72px;    
+}
+
+#footer p {
+    color: black;
+}
+
+#ondas {
+    position: fixed;
+    bottom: 0;
+    right: auto;
+}
